@@ -68,6 +68,7 @@ body{
   #logo{
     animation-name: logo;
     animation-duration:5s;
+    width: 475px;
   }
 
   @media screen and (min-width: 900px){
